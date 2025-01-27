@@ -1,10 +1,13 @@
 Customer Segmentation and Analysis
+
 This project involves Exploratory Data Analysis (EDA), building a Lookalike Model for customer recommendations, and applying various clustering algorithms to segment customers based on transaction behavior.
 
 Project Files
+
 The project consists of the following files:
 
 Datasets
+
 Customers.csv: Contains customer data including ID, name, region, and signup date.
 Products.csv: Contains product data including ID, name, category, and price.
 Transactions.csv: Contains transaction data, linking customers and products, with details on quantity, price, and total value.
@@ -17,6 +20,7 @@ Shreyas_Peyyeti_Lookalike.ipynb: A Jupyter notebook that builds the Lookalike Mo
 Clustering
 Shreyas_Peyyeti_Clustering.pdf: A PDF report summarizing the clustering analysis results, including performance metrics like Silhouette Score and Davies-Bouldin Index.
 Shreyas_Peyyeti_Clustering.ipynb: A Jupyter notebook that applies clustering algorithms (KMeans, DBSCAN, Spectral Clustering, Agglomerative Clustering, and GMM) to segment customers. It includes model evaluation and visualization of results.
+
 Installation
 Clone the repository:
 
